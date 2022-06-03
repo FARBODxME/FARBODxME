@@ -6,7 +6,7 @@
   </a>
 </h1>
       
-<p align='center'>Hello! I am AJ Founder of Sun Rise community and helped paved way for FiveM community.</p>
+<p align='center'>Welcome to my Github profile!</p>
 
 
 <!--- About You --->   
