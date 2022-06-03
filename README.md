@@ -16,7 +16,7 @@
    <img align="right" height="250" width= "280px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 </a>
 
-- 🔭 I’m currently working on a massive FiveM update, stay tuned!
+- 🔭 I am currently working on a personal site!
   
 - 🌱 I’m currently learning Javascript Frameworkds
   
