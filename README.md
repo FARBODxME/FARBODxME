@@ -16,16 +16,14 @@
    <img align="right" height="250" width= "280px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 </a>
 
-- 🔭 I am currently working on a personal site!
+- 🔭 I’/am currently working on a personal site!
   
-- 🌱 I’m currently learning Javascript Frameworkds
+- 🌱 I'm currently learning Javascript
+html 
+css
   
-- 👯 I’m looking to collaborate on FiveM Projects
+- 👯 I’m looking to collaborate 
   
-- 💬 Ask me about Lua, FiveM, and much more! I am always happy to help
-  
-- ⚡ Fun fact: Top FiveM Developer
-
 <br/>
 
     
