@@ -16,7 +16,7 @@
    <img align="right" height="250" width= "280px" alt="GIF" src="https://media.giphy.com/media/1ZoidbMDkySJDRE4bP/giphy.gif" />
 </a>
 
-- 🔭 I’/am currently working on a personal site!
+- 🔭 I’am currently working on a personal site!
   
 - 🌱 I'm currently learning Javascript
 html 
