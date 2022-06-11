@@ -22,8 +22,8 @@
 html 
 css
   
-- 👯 I’m looking to collaborate 
-  
+- 👯 I’m looking for a team
+
 <br/>
 
     
