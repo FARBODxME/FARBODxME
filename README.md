@@ -44,8 +44,8 @@ css
 <code><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"></code>
 </div>
 <hr>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FARBODxME&show_icons=true&theme=radical)
+<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farbodxme&layout=compact)](https://github.com/farbodxme/github-readme-stats" />
 
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=farbodxme&show_icons=true&theme=radical"  />
 
-
-  
+<!-- <img widht="35%" src="" --> 
