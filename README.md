@@ -38,9 +38,9 @@ css
 <br/>
 <br/>  
 <code><img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"></code>
+<code><img src="https://img.shields.io/badge/lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="lua"></code>
 <code><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"></code>
 <br/> <br>
-<code><img src="https://img.shields.io/badge/lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="lua"></code>
 <code><img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=AdobePhotoshop&logoColor=white" alt="photoshop"></code>
 <code><img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vs"></code>
 <code><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"></code>
