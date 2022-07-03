@@ -46,6 +46,8 @@ css
 <code><img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vs"></code>
 <code><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"></code>
 </div>
+<br/>
+<code> <span style=for-the-badge&logo=github&logoColor=white"></span> </code>
 <hr>
 <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farbodxme&layout=compact)](https://github.com/farbodxme/github-readme-stats" />
 
