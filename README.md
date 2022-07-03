@@ -6,7 +6,8 @@
   </a>
 </h1>
       
-<p align='center'>Welcome to my Github profile!</p>
+<p align='center'>            </p>
+<br/> <br/>
 
 <!--Design by farbodxme-->
 <!--- About You --->   
