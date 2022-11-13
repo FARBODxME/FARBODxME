@@ -1,21 +1,5 @@
-<!--- Header --->   
-<h1 align="center">
-  𝙒𝙚𝙡𝙘𝙤𝙢𝙚 &lt;𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛𝚜/&gt; !
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-  </a>
-</h1>
-      
-<p align='center'>            </p>
-<br/> <br/>
-
-<!--Design by farbodxme-->
-<!--- About You --->   
 <h2> 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;"></h2>
 
-<a target="_blank">
-   <img align="right" height="250" width= "280px" alt="GIF" src="https://media.giphy.com/media/1ZoidbMDkySJDRE4bP/giphy.gif" />
-</a>
 
 - 🔭 I’am currently working on a personal site!
   
@@ -25,12 +9,14 @@ css
   
 - 👯 I’m looking for a team
 
-<br/>
+<br>
 
     
-
+<br>
  <!--- Skills --->        
-<h2> 𝙎𝙠𝙞𝙡𝙡𝙨 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> 𝙎𝙠𝙞𝙡𝙡𝙨  </h2>
+<br>
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 150px >
 <div align="center">
 <code><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></code>
 <code><img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css"></code>
