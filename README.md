@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<h4 align="center"><samp> front end Developer - UI/UX Designer - Application & Bot Developer</samp></h4>
+<h4 align="center"><samp> Front End Developer - UI/UX Designer - Application & Bot Developer</samp></h4>
 </div>
 
 <br>
