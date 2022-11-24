@@ -49,7 +49,11 @@
     GitHub Stats
 </h1>
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=farbodxme&show_icons=true&locale=en&layout=compact" alt="farbodxme" />
+</div>
 
+<br>
 <div align="center">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farbodxme&theme=github_dark"  alt="s"/>
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farbodxme&theme=github_dark"  alt="s"/>
@@ -89,7 +93,7 @@
     Donate ?!
 </h1>
 <div>
-
+	
 BitCoin : 
 ```
 bc1qll8q8da7l3y6fz9v34xaw6nqg80a9yhp06hqdh
@@ -102,8 +106,9 @@ Ethereum :
 ```
 0xf7f32d822045c6b57f2ec0d708e8417dc39a9cd7
 ```
-
-
+IDPAY :
+<p><a href="https://idpay.ir/farbodxme1"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="s" /></a></p>
+<br>	
 </div>
 
 <h1></h1>
