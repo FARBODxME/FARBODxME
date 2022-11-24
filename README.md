@@ -4,6 +4,11 @@
 </h2>
 </div>
 
+- 🔭 I’m currently working on something cool
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate on open source projects
+- ⚡ Fun fact: I'm a Gamer
+
 <div align="center">
 <h4 align="center"><samp> Front End Developer - UI/UX Designer - Application & Bot Developer</samp></h4>
 </div>
