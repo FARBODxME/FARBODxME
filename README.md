@@ -78,6 +78,29 @@
   <img src="https://profile-counter.glitch.me/farbodxme/count.svg" />
 </p>
 
+<br>
+
+<h1 align="center">
+    Donate ?!
+</h1>
+<div>
+
+BitCoin : 
+```
+bc1qll8q8da7l3y6fz9v34xaw6nqg80a9yhp06hqdh
+```
+Tether :
+```
+THzewGafD3RYVedDMzVaU7zTDwtDeJamRh
+```
+Ethereum : 
+```
+0xf7f32d822045c6b57f2ec0d708e8417dc39a9cd7
+```
+
+
+</div>
+
 <h1></h1>
 
  ```javascript
