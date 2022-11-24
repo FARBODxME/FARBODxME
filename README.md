@@ -23,7 +23,7 @@
 
 <br>
 <h1 align="center">
-    Programming Language
+    My Skills
 	
 </h1>
 
