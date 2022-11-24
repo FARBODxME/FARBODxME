@@ -23,7 +23,7 @@
 
 <br>
 <h1 align="center">
-    My Skills
+    Skills
 	
 </h1>
 
