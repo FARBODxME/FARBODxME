@@ -1,134 +1,56 @@
-<div align="center">
-<h2>Hi, I'm FarbodXme 
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/76/waving-hand-sign_emoji-modifier-fitzpatrick-type-1-2_1f44b-1f3fb_1f3fb.png" width="30">
-</h2>
-</div>
+# 💫 About Me:
 
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on open source projects
-- ⚡ Fun fact: I'm a Gamer
-
-<div align="center">
-<h4 align="center"><samp> Front End Developer - UI/UX Designer - Application & Bot Developer</samp></h4>
-</div>
-
+🔭 I’m currently working on something cool<br>
+🌱 I’m currently learning everything 🤣
 <br>
-
-<p align="center">
-    <a href="https://instagram.com/farbodxme"><img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=5459a7" style="border-radius:15px" alt="Instagram"></a>
-    <a href="https://discord.gg/5NN9exCmVX"><img src="https://img.shields.io/badge/Discord-171717?style=for-the-badge&logo=discord&logoColor=5459a7" style="border-radius:15px" alt="Discord"></a>
-    <a href="mailto:farbodpaydar70@gmail.com"><img src="https://img.shields.io/badge/Gmail-171717?style=for-the-badge&logo=gmail&logoColor=5459a7" alt="Gmail" style="border-radius:15px"></a>
-</p>
-
+👯 I’m looking to collaborate on open source projects
 <br>
-<h1 align="center">
-    Skills
-	
-</h1>
-
+⚡ Fun fact: I'm a Gamer<br>
 <div align="center">
-	
-<code><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></code>
-<code><img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css"></code>
-<code><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"></code>
-<br><br>
-<code><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"></code>
-<code><img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"></code>
-<code><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"></code>
-<br><br>
-<code><img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=AdobePhotoshop&logoColor=white" alt="photoshop"></code>
-<code><img src="https://img.shields.io/badge/AdobeXD-FF61F6.svg?style=for-the-badge&logo=AdobeXD&logoColor=white" alt="adobexd"></code>
-<code><img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vs"></code>
-<code><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"></code>
-</div>
-</div>
 
-<br>
-<h1 align="center">
-    GitHub Stats
-</h1>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/khGfWgak) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farbodxme) 
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=farbodxme&show_icons=true&locale=en&layout=compact" alt="farbodxme" />
-</div>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br> ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=farbodxme&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=farbodxme&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=farbodxme&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<br>
-<div align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farbodxme&theme=github_dark"  alt="s"/>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farbodxme&theme=github_dark"  alt="s"/>
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=farbodxme&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=farbodxme&theme=github_dark"  alt=""/>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farbodxme&theme=github_dark&utcOffset=8"  alt=""/>
-</div>
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-<br>
+---
+[![](https://visitcount.itsvg.in/api?id=farbodxme&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farbodxme&theme=github_dark"  alt=""/>
-</div>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://idpay.ir/farbodxme1) 
+	<div>
 
-<br/>
-
-<div align="center"> 
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=farbodxme&custom_title=FARBODxME's%20Contribution%20Graph&bg_color=171717&color=5459a7&line=FFFFFF&point=5459a7&hide_border=F84C4C&count_private=falae"  alt=""/>     </a>
+  BitCoin :
+  ```
+  bc1qll8q8da7l3y6fz9v34xaw6nqg80a9yhp06hqdh
+  ```
+  Tether :
+  ```
+  THzewGafD3RYVedDMzVaU7zTDwtDeJamRh
+  ```
+  Ethereum :
+  ```
+  0xf7f32d822045c6b57f2ec0d708e8417dc39a9cd7
+  ```
+  IDPAY :
+  <p><a href="https://idpay.ir/farbodxme1"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50"
+        width="210" alt="s" /></a></p>
+  <br>
 </div>
 
-<br/><br/>
-
-<h1 align="center">
-    Visitors
-</h1>
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/farbodxme/count.svg" />
-</p>
-
-<br>
-
-<h1 align="center">
-    Donate ?!
-</h1>
-<div>
-	
-BitCoin : 
-```
-bc1qll8q8da7l3y6fz9v34xaw6nqg80a9yhp06hqdh
-```
-Tether :
-```
-THzewGafD3RYVedDMzVaU7zTDwtDeJamRh
-```
-Ethereum : 
-```
-0xf7f32d822045c6b57f2ec0d708e8417dc39a9cd7
-```
-IDPAY :
-<p><a href="https://idpay.ir/farbodxme1"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="s" /></a></p>
-<br>	
-</div>
-
-<h1></h1>
-
- ```javascript
-  const FunyFacts = {
-	    KPOP: true,
-	    TikTok: true,
-	    YouTube: true,
-	    WatchingKDrama: true,
-	    TVSeries: false,
-        OperatingـSystem:[ LINUX , WINDOWS],
-        LANGUAES: [ ENGLISH, PERSIAN ]
-  }
-    const friendDB = require('FRIENDS.json');
-    var friend = friendDB.all()
-
-    if(friend.ignored.me) {
-        friendDB.remove(friend)
-    }
-    
-```
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
