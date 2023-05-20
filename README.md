@@ -31,9 +31,7 @@
 [![](https://visitcount.itsvg.in/api?id=farbodxme&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://idpay.ir/farbodxme1) 
-	<div>
-
+ 
   BitCoin :
   ```
   bc1qll8q8da7l3y6fz9v34xaw6nqg80a9yhp06hqdh
@@ -47,7 +45,7 @@
   0xf7f32d822045c6b57f2ec0d708e8417dc39a9cd7
   ```
   IDPAY :
-  <p><a href="https://idpay.ir/farbodxme1"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50"
+  <p><a href="https://idpay.ir/farbodxme1"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50"
         width="210" alt="s" /></a></p>
   <br>
 </div>
