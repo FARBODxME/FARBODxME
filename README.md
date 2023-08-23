@@ -1,7 +1,7 @@
 <div align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=welcome+to+my+profile;have+a+gud+day"></div>
 
 # 💫 About Me:
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="350px" height="208.5px">
+<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="310px" height="208.5px">
 </br></br>
 
 - 🔭 I’m currently working on something cool
