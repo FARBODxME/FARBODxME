@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
-</br>
+</br></br>
 🔭 I’m currently working on something cool<br>
 🌱 I’m currently learning everything 🤣
 <br>
