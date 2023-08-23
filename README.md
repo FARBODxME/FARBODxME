@@ -1,3 +1,5 @@
+<div align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=welcome+to+my+profile;have+a+gud+day"></div>
+
 # 💫 About Me:
 
 🔭 I’m currently working on something cool<br>
