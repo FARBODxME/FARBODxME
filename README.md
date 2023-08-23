@@ -12,7 +12,7 @@
 
 - 💬 Ask me about web design and many other things! I am always happy to help
 
-- ⚡ Fun fact: I'm a Gamer<br>
+- ⚡ Fun fact: I know everything <br>
 <div align="center">
 </br></br></br>
 
