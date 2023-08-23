@@ -3,12 +3,13 @@
 # 💫 About Me:
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 </br></br>
-🔭 I’m currently working on something cool<br>
-🌱 I’m currently learning everything 🤣
-<br>
-👯 I’m looking to collaborate on open source projects
-<br>
-⚡ Fun fact: I'm a Gamer<br>
+- 🔭 I’m currently working on something cool
+<br><br>
+- 🌱 I’m currently learning everything 🤣
+<br><br>
+- 👯 I’m looking to collaborate on open source projects
+<br><br>
+- ⚡ Fun fact: I'm a Gamer<br>
 <div align="center">
 </br></br></br>
 
@@ -38,21 +39,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=farbodxme&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
- 
-  BitCoin :
-  ```
-  bc1qll8q8da7l3y6fz9v34xaw6nqg80a9yhp06hqdh
-  ```
-  Tether :
-  ```
-  THzewGafD3RYVedDMzVaU7zTDwtDeJamRh
-  ```
-  Ethereum :
-  ```
-  0xf7f32d822045c6b57f2ec0d708e8417dc39a9cd7
-  ```
-  IDPAY :
   <p><a href="https://idpay.ir/farbodxme1"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50"
         width="210" alt="s" /></a></p>
   <br>
