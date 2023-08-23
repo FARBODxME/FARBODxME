@@ -3,12 +3,15 @@
 # 💫 About Me:
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 </br></br>
+
 - 🔭 I’m currently working on something cool
-<br><br>
-- 🌱 I’m currently learning everything 🤣
-<br><br>
+
+- 🌱I am always learning new and interesting things😆
+
 - 👯 I’m looking to collaborate on open source projects
-<br><br>
+
+- 💬 Ask me about web design and many other things! I am always happy to help
+
 - ⚡ Fun fact: I'm a Gamer<br>
 <div align="center">
 </br></br></br>
