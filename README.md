@@ -42,8 +42,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=farbodxme&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <p><a href="https://idpay.ir/farbodxme1"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50"
-        width="210" alt="s" /></a></p>
   <br>
 </div>
 
