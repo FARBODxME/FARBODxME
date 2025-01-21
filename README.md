@@ -1,9 +1,9 @@
 <div align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=welcome+to+my+profile;have+a+gud+day"></div>
 
 # 💫 About Me:
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="310px" height="208.5px">
-</br></br>
 
+</br></br>
+<img align="right" alt="sheikh python" width = "400" src ="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 - 🔭 I’m currently working on something cool
 
 - 🌱I am always learning new and interesting things😆
