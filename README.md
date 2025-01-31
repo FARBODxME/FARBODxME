@@ -6,13 +6,13 @@
 <img align="right" alt="sheikh python" width = "400" src ="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 - 🔭 I’m currently working on something cool
 
-- 🌱I am always learning new and interesting things😆
+- 🚀 Bug Hunter | Security Researcher | Cyber Explorer
 
-- 👯 I’m looking to collaborate on open source projects
+- 💡 "No system is safe." 💀
 
-- 💬 Ask me about web design and many other things! I am always happy to help
+- 📌 On a journey to uncover the unknown and push the limits
 
-- ⚡ Fun fact: I know everything <br>
+- ⚡ When something seems impossible, that’s when it gets exciting!
 <div align="center">
 </br></br></br>
 
