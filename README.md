@@ -8,7 +8,7 @@
 
 - 🚀 Bug Hunter | Security Researcher | Cyber Explorer
 
-- 💡 "No system is safe." 💀
+- ⛔ "No system is safe" ⛔
 
 - 📌 On a journey to uncover the unknown and push the limits
 
