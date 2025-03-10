@@ -18,7 +18,7 @@
 
 ## 🌐 Socials:
 <a href="https://instagram.com/farbodxme"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://linkedin.com/in/farbod-paydar-02250b177"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://x.com/YourAnonXme"><img src="https://img.shields.io/badge/Twitter%20-000000?style=for-the-badge&logo=Twitter&logoColor=black"></a>
     <a href="https://t.me/farbodxme"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <a href="https://discord.gg/5NN9exCmVX"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 
