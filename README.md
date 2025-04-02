@@ -24,7 +24,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,py,go,typescript,linux,bash,git,kali,lua,scss)](https://skillicons.dev) </br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,py,go,php,typescript,linux,bash,git,kali,lua,scss)](https://skillicons.dev) </br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=farbodxme&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
