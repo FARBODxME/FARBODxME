@@ -7,8 +7,7 @@
 
 # :bar_chart: Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=farbodxme&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=farbodxme&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=farbodxme&theme=midnight-purple&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=farbodxme&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false)![](https://nirzak-streak-stats.vercel.app/?user=farbodxme&theme=midnight-purple&hide_border=true)
 
 ☠️ The quieter you become, the more you are able to hear.
 
