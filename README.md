@@ -3,7 +3,7 @@
 ### <p align="center"> We work in the dark to serve the light.</p>
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,py,go,php,typescript,linux,bash,git,kali,lua,scss)](https://skillicons.dev) </br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,py,go,php,typescript,linux,bash,git,kali,lua,scss)](https://skillicons.dev) </br>
 
 # :bar_chart: Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=farbodxme&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
